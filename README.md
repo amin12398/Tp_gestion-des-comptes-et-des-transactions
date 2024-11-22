@@ -15,9 +15,8 @@ La branche **`back`** contient le code du backend. Elle est responsable de l'API
 
 ### 2. Frontend (branche `front`)
 
-La partie **Frontend** (branche `front`) contient le serveur de l'application, développé avec **Spring Boot** et utilisant **GraphQL** pour échanger des données entre le client et le serveur.
+La partie **Frontend** (branche `front`) contient l'interface de l'application, développé avec **React** et utilisant **ApolloClient**.
 
-Le frontend gère la logique de l'application côté serveur, traite les requêtes GraphQL, et gère les réponses pour l'interface utilisateur.
 
 ### 3. Lien de la vidéo
 
